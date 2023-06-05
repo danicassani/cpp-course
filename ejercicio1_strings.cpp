@@ -14,5 +14,6 @@ int main(){
     nombre [0] = 'X';
     nombre [size - 1] = 'x';
     cout << "Nombre corrupto: " << nombre << endl;
+    
     return 0;
 }
